@@ -519,7 +519,7 @@ footer {
   color: #a0aec0;
   font-size: 0.85rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 @media (max-width: 600px) {
